@@ -1,0 +1,302 @@
+# Calculated robot dimensions from URDF files
+    "abb_crb15000_5_95": {
+        "category": "robots",
+        "description": "ABB CRB15000_5_95 robot, 0.6m reach",
+        "approximate_size": {"length": 1.14, "width": 1.14, "height": 0.9},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb1200_5_90": {
+        "category": "robots",
+        "description": "ABB IRB1200_5_90 robot, 5.0kg payload, 90mm reach",
+        "approximate_size": {"length": 1.07, "width": 1.07, "height": 0.89},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb1200_7_70": {
+        "category": "robots",
+        "description": "ABB IRB1200_7_70 robot, 7.0kg payload, 70mm reach",
+        "approximate_size": {"length": 0.87, "width": 0.87, "height": 0.79},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb120t_3_58": {
+        "category": "robots",
+        "description": "ABB IRB120T_3_58 robot, 3.0kg payload, 58mm reach",
+        "approximate_size": {"length": 0.75, "width": 0.75, "height": 0.63},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb120_3_58": {
+        "category": "robots",
+        "description": "ABB IRB120_3_58 robot, 3.0kg payload, 58mm reach",
+        "approximate_size": {"length": 0.75, "width": 0.75, "height": 0.63},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb1600_6_12": {
+        "category": "robots",
+        "description": "ABB IRB1600_6_12 robot, 6.0kg payload, 12mm reach",
+        "approximate_size": {"length": 1.63, "width": 1.63, "height": 0.96},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb1600_8_145": {
+        "category": "robots",
+        "description": "ABB IRB1600_8_145 robot, 8.0kg payload, 145mm reach",
+        "approximate_size": {"length": 1.63, "width": 1.63, "height": 1.19},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb2400": {
+        "category": "robots",
+        "description": "ABB IRB2400 robot, 0.9m reach",
+        "approximate_size": {"length": 1.88, "width": 1.88, "height": 1.45},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb2400_12_155": {
+        "category": "robots",
+        "description": "ABB IRB2400_12_155 robot, 12.0kg payload, 155mm reach",
+        "approximate_size": {"length": 1.71, "width": 1.71, "height": 1.45},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb2600_12_165": {
+        "category": "robots",
+        "description": "ABB IRB2600_12_165 robot, 12.0kg payload, 165mm reach",
+        "approximate_size": {"length": 2.06, "width": 2.06, "height": 1.26},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb4400l_30_243": {
+        "category": "robots",
+        "description": "ABB IRB4400L_30_243 robot, 30.0kg payload, 243mm reach",
+        "approximate_size": {"length": 3.16, "width": 3.16, "height": 1.72},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb4600_20_250": {
+        "category": "robots",
+        "description": "ABB IRB4600_20_250 robot, 20.0kg payload, 250mm reach",
+        "approximate_size": {"length": 2.98, "width": 2.98, "height": 1.76},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb4600_40_255": {
+        "category": "robots",
+        "description": "ABB IRB4600_40_255 robot, 40.0kg payload, 255mm reach",
+        "approximate_size": {"length": 3.16, "width": 3.16, "height": 1.76},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb4600_60_205": {
+        "category": "robots",
+        "description": "ABB IRB4600_60_205 robot, 60.0kg payload, 205mm reach",
+        "approximate_size": {"length": 2.54, "width": 2.54, "height": 1.57},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb52_7_120": {
+        "category": "robots",
+        "description": "ABB IRB52_7_120 robot, 7.0kg payload, 120mm reach",
+        "approximate_size": {"length": 1.63, "width": 1.63, "height": 0.96},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb52_7_145": {
+        "category": "robots",
+        "description": "ABB IRB52_7_145 robot, 7.0kg payload, 145mm reach",
+        "approximate_size": {"length": 1.63, "width": 1.63, "height": 1.19},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb5400": {
+        "category": "robots",
+        "description": "ABB IRB5400 robot, 1.9m reach",
+        "approximate_size": {"length": 3.76, "width": 3.76, "height": 2.12},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6600_225_255": {
+        "category": "robots",
+        "description": "ABB IRB6600_225_255 robot, 225.0kg payload, 255mm reach",
+        "approximate_size": {"length": 3.32, "width": 3.32, "height": 2.06},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6640": {
+        "category": "robots",
+        "description": "ABB IRB6640 robot, 1.9m reach",
+        "approximate_size": {"length": 3.74, "width": 3.74, "height": 2.05},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6640_185_280": {
+        "category": "robots",
+        "description": "ABB IRB6640_185_280 robot, 185.0kg payload, 280mm reach",
+        "approximate_size": {"length": 3.82, "width": 3.82, "height": 2.06},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6650s_125_350": {
+        "category": "robots",
+        "description": "ABB IRB6650S_125_350 robot, 125.0kg payload, 350mm reach",
+        "approximate_size": {"length": 4.78, "width": 4.78, "height": 2.11},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6650s_90_390": {
+        "category": "robots",
+        "description": "ABB IRB6650S_90_390 robot, 90.0kg payload, 390mm reach",
+        "approximate_size": {"length": 5.68, "width": 5.68, "height": 2.11},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6700_200_260": {
+        "category": "robots",
+        "description": "ABB IRB6700_200_260 robot, 200.0kg payload, 260mm reach",
+        "approximate_size": {"length": 3.32, "width": 3.32, "height": 2.1},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb6700_235_265": {
+        "category": "robots",
+        "description": "ABB IRB6700_235_265 robot, 235.0kg payload, 265mm reach",
+        "approximate_size": {"length": 3.4, "width": 3.4, "height": 2.12},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "abb_irb7600_150_350": {
+        "category": "robots",
+        "description": "ABB IRB7600_150_350 robot, 150.0kg payload, 350mm reach",
+        "approximate_size": {"length": 5.34, "width": 5.34, "height": 2.02},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr10r1100sixx": {
+        "category": "robots",
+        "description": "KUKA KR10R1100SIXX robot, 10.0kg payload, 1100mm reach",
+        "approximate_size": {"length": 2.36, "width": 2.36, "height": 0.44},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr10r1420": {
+        "category": "robots",
+        "description": "KUKA KR10R1420 robot, 10.0kg payload, 1420mm reach",
+        "approximate_size": {"length": 3.0, "width": 3.0, "height": 0.47},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr10r900_2": {
+        "category": "robots",
+        "description": "KUKA KR10R900_2 robot, 10.0kg payload, 900mm reach",
+        "approximate_size": {"length": 1.98, "width": 1.98, "height": 0.43},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr120r2500pro": {
+        "category": "robots",
+        "description": "KUKA KR120R2500PRO robot, 120.0kg payload, 2500mm reach",
+        "approximate_size": {"length": 5.0, "width": 5.0, "height": 0.68},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr150r3100_2": {
+        "category": "robots",
+        "description": "KUKA KR150R3100_2 robot, 150.0kg payload, 3100mm reach",
+        "approximate_size": {"length": 6.63, "width": 6.63, "height": 0.76},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr150_2": {
+        "category": "robots",
+        "description": "KUKA KR150_2 robot, 2.9m reach",
+        "approximate_size": {"length": 5.86, "width": 5.86, "height": 0.75},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr16_2": {
+        "category": "robots",
+        "description": "KUKA KR16_2 robot, 1.6m reach",
+        "approximate_size": {"length": 3.22, "width": 3.22, "height": 0.68},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr210": {
+        "category": "robots",
+        "description": "KUKA KR210 robot, 2.0m reach",
+        "approximate_size": {"length": 4.09, "width": 4.09, "height": 2.0},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr3r540": {
+        "category": "robots",
+        "description": "KUKA KR3R540 robot, 3.0kg payload, 540mm reach",
+        "approximate_size": {"length": 1.23, "width": 1.23, "height": 0.36},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr5_arc": {
+        "category": "robots",
+        "description": "KUKA KR5_ARC robot, 0.8m reach",
+        "approximate_size": {"length": 1.58, "width": 1.58, "height": 0.4},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr6r700sixx": {
+        "category": "robots",
+        "description": "KUKA KR6R700SIXX robot, 6.0kg payload, 700mm reach",
+        "approximate_size": {"length": 1.57, "width": 1.57, "height": 0.44},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr6r900sixx": {
+        "category": "robots",
+        "description": "KUKA KR6R900SIXX robot, 6.0kg payload, 900mm reach",
+        "approximate_size": {"length": 1.96, "width": 1.96, "height": 0.44},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_kr6r900_2": {
+        "category": "robots",
+        "description": "KUKA KR6R900_2 robot, 6.0kg payload, 900mm reach",
+        "approximate_size": {"length": 1.98, "width": 1.98, "height": 0.43},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "kuka_lbr_iiwa_14_r820": {
+        "category": "robots",
+        "description": "KUKA LBR_IIWA_14_R820 robot, 0.0m reach",
+        "approximate_size": {"length": 0.0, "width": 0.0, "height": 1.18},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "robotiq_2f85": {
+        "category": "robots",
+        "description": "Robot robotiq_2f85 robot, 0.1m reach",
+        "approximate_size": {"length": 0.2, "width": 0.2, "height": 0.36},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "ur10_robot": {
+        "category": "robots",
+        "description": "Universal Robots UR10_ROBOT robot, 10.0kg payload, 1300mm reach",
+        "approximate_size": {"length": 2.38, "width": 2.38, "height": 0.29},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "ur10e_robot": {
+        "category": "robots",
+        "description": "Universal Robots UR10E_ROBOT robot, 10.0kg payload, 1300mm reach",
+        "approximate_size": {"length": 2.38, "width": 2.38, "height": 0.35},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    },
+    "ur5_robot": {
+        "category": "robots",
+        "description": "Universal Robots UR5_ROBOT robot, 5.0kg payload, 850mm reach",
+        "approximate_size": {"length": 1.65, "width": 1.65, "height": 0.2},
+        "style": "Modern",
+        "material": "Metal and Electronics"
+    }

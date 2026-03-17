@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment and secrets
+OAI_CONFIG_LIST.json
+.env
+*.key
+
+# Large data / models
+OpenShape-Embeddings/
+openshape-demo-support/
+Assets/
+
+# Unity large assets
+Unity/Robots/
+Unity/Equipment/
+
+# Generated outputs
+scenes/*.json
+scenes/*.png
+scenes/*.blend
+scenes/*_rationale.md
+!scenes/examples/
+
+# Evaluation outputs
+evaluation/experiment_results/
+evaluation/results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/

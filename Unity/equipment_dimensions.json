@@ -1,0 +1,462 @@
+{
+    "55Gal_Drum": {
+        "length": 0.581,
+        "width": 0.581,
+        "height": 0.854
+    },
+    "Air_Compressor": {
+        "length": 0.397,
+        "width": 0.820,
+        "height": 0.612
+    },
+    "Boombox": {
+        "length": 0.604,
+        "width": 0.191,
+        "height": 0.391
+    },
+    "Box_4in": {
+        "length": 0.102,
+        "width": 0.102,
+        "height": 0.076
+    },
+    "Box_7in": {
+        "length": 0.178,
+        "width": 0.203,
+        "height": 0.127
+    },
+    "Bucket_Metal": {
+        "length": 0.342,
+        "width": 0.329,
+        "height": 0.302
+    },
+    "BugSprayCan": {
+        "length": 0.069,
+        "width": 0.069,
+        "height": 0.258
+    },
+    "Camera_Stand_7ft": {
+        "length": 0.403,
+        "width": 0.349,
+        "height": 2.133
+    },
+    "Cardboard_A": {
+        "length": 1.556,
+        "width": 0.696,
+        "height": 0.014
+    },
+    "Cardboard_B": {
+        "length": 1.511,
+        "width": 0.699,
+        "height": 0.018
+    },
+    "Conveyor_3.5ft": {
+        "length": 0.470,
+        "width": 1.041,
+        "height": 1.005
+    },
+    "Conveyor_6ft": {
+        "length": 0.470,
+        "width": 1.829,
+        "height": 0.954
+    },
+    "ConveyorCorner_6ft": {
+        "length": 1.804,
+        "width": 1.824,
+        "height": 0.989
+    },
+    "ConveyorTable_6ft": {
+        "length": 1.016,
+        "width": 1.829,
+        "height": 0.916
+    },
+    "Crate_w_Boxes": {
+        "length": 1.380,
+        "width": 1.024,
+        "height": 2.050
+    },
+    "Environment_180ftx101ft": {
+        "length": 31.001,
+        "width": 54.919,
+        "height": 8.390
+    },
+    "GarbageContainer": {
+        "length": 0.820,
+        "width": 0.754,
+        "height": 0.950
+    },
+    "Handtruck": {
+        "length": 0.661,
+        "width": 0.640,
+        "height": 1.381
+    },
+    "Ladder_Folded": {
+        "length": 0.205,
+        "width": 0.550,
+        "height": 1.969
+    },
+    "Ladder_Open": {
+        "length": 1.095,
+        "width": 0.550,
+        "height": 1.851
+    },
+    "MFG_Equip_30ftx7ft_w_Exhaust": {
+        "length": 3.064,
+        "width": 9.027,
+        "height": 7.727
+    },
+    "Pallet": {
+        "length": 1.131,
+        "width": 1.029,
+        "height": 0.118
+    },
+    "Pallet_Jack": {
+        "length": 0.551,
+        "width": 1.262,
+        "height": 1.142
+    },
+    "Pallet_w_55GalDrums": {
+        "length": 1.131,
+        "width": 1.029,
+        "height": 0.972
+    },
+    "Pallet_w_LargeBoxes": {
+        "length": 1.131,
+        "width": 1.131,
+        "height": 1.013
+    },
+    "Pallet_w_MedBoxes": {
+        "length": 1.131,
+        "width": 1.131,
+        "height": 1.060
+    },
+    "Pallet_w_SmallBoxes": {
+        "length": 1.135,
+        "width": 1.029,
+        "height": 1.338
+    },
+    "PalletMover": {
+        "length": 1.829,
+        "width": 1.233,
+        "height": 1.338
+    },
+    "Portable_Fan": {
+        "length": 0.735,
+        "width": 0.814,
+        "height": 1.016
+    },
+    "Power_Cutter": {
+        "length": 0.956,
+        "width": 0.364,
+        "height": 0.494
+    },
+    "Pylon": {
+        "length": 0.422,
+        "width": 0.369,
+        "height": 1.082
+    },
+    "SafetyRailing_8ft": {
+        "length": 0.115,
+        "width": 2.500,
+        "height": 1.055
+    },
+    "SafetyRailing_16ft": {
+        "length": 0.115,
+        "width": 4.953,
+        "height": 1.055
+    },
+    "ScissorLift": {
+        "length": 2.437,
+        "width": 1.312,
+        "height": 2.487
+    },
+    "ShelvingRack_CustomPrefab": {
+        "length": 1.131,
+        "width": 1.131,
+        "height": 1.060
+    },
+    "ShelvingRack": {
+        "length": 1.232,
+        "width": 3.658,
+        "height": 3.661
+    },
+    "ShelvingRack_Loaded": {
+        "length": 1.232,
+        "width": 3.658,
+        "height": 4.718
+    },
+    "SodaCup": {
+        "length": 0.155,
+        "width": 0.155,
+        "height": 0.423
+    },
+    "Table_6ft": {
+        "length": 1.016,
+        "width": 1.829,
+        "height": 0.916
+    },
+    "Thermos": {
+        "length": 0.127,
+        "width": 0.127,
+        "height": 0.331
+    },
+    "TiltTruck": {
+        "length": 0.797,
+        "width": 1.176,
+        "height": 0.897
+    },
+    "ToolCrate": {
+        "length": 0.590,
+        "width": 1.032,
+        "height": 0.661
+    },
+    "Tote_5in": {
+        "length": 0.483,
+        "width": 0.610,
+        "height": 0.141
+    },
+    "Tote_10in": {
+        "length": 0.406,
+        "width": 0.572,
+        "height": 0.259
+    },
+    "Tripod_WorkLight": {
+        "length": 0.766,
+        "width": 0.657,
+        "height": 1.635
+    },
+    "UnityRoboticsRF3_Open": {
+        "length": 0.128,
+        "width": 0.257,
+        "height": 0.726
+    },
+    "VentilatorFan_Curved": {
+        "length": 3.365,
+        "width": 3.134,
+        "height": 0.801
+    },
+    "VentilatorFan_Straight": {
+        "length": 2.493,
+        "width": 5.813,
+        "height": 0.803
+    },
+    "Vintage_Crate": {
+        "length": 1.243,
+        "width": 1.005,
+        "height": 0.897
+    },
+    "abb_crb15000_5_95": {
+        "length": 0.290,
+        "width": 0.696,
+        "height": 0.952
+    },
+    "abb_irb52_7_120": {
+        "length": 0.000,
+        "width": 0.815,
+        "height": 0.962
+    },
+    "abb_irb52_7_145": {
+        "length": 0.000,
+        "width": 0.815,
+        "height": 1.187
+    },
+    "abb_irb120_3_58": {
+        "length": 0.219,
+        "width": 0.585,
+        "height": 0.700
+    },
+    "abb_irb120t_3_58": {
+        "length": 0.219,
+        "width": 0.585,
+        "height": 0.700
+    },
+    "abb_irb1200_5_90": {
+        "length": 0.264,
+        "width": 0.726,
+        "height": 0.973
+    },
+    "abb_irb1200_7_70": {
+        "length": 0.264,
+        "width": 0.626,
+        "height": 0.885
+    },
+    "abb_irb1600_6_12": {
+        "length": 0.494,
+        "width": 1.197,
+        "height": 1.069
+    },
+    "abb_irb1600_8_145": {
+        "length": 0.494,
+        "width": 1.197,
+        "height": 1.294
+    },
+    "abb_irb2400": {
+        "length": 0.833,
+        "width": 1.414,
+        "height": 1.565
+    },
+    "abb_irb2400_12_155": {
+        "length": 0.833,
+        "width": 1.414,
+        "height": 1.565
+    },
+    "abb_irb2600_12_165": {
+        "length": 0.000,
+        "width": 1.030,
+        "height": 1.260
+    },
+    "abb_irb4400l_30_243": {
+        "length": 0.000,
+        "width": 1.720,
+        "height": 1.720
+    },
+    "abb_irb4600_20_250": {
+        "length": 0.632,
+        "width": 1.892,
+        "height": 1.922
+    },
+    "abb_irb4600_40_255": {
+        "length": 0.632,
+        "width": 1.981,
+        "height": 1.922
+    },
+    "abb_irb4600_60_205": {
+        "length": 0.631,
+        "width": 1.671,
+        "height": 1.727
+    },
+    "abb_irb5400": {
+        "length": 1.010,
+        "width": 2.381,
+        "height": 2.170
+    },
+    "abb_irb6600_225_255": {
+        "length": 0.850,
+        "width": 2.388,
+        "height": 2.240
+    },
+    "abb_irb6640": {
+        "length": 0.220,
+        "width": 2.290,
+        "height": 2.048
+    },
+    "abb_irb6640_185_280": {
+        "length": 0.866,
+        "width": 2.539,
+        "height": 2.242
+    },
+    "abb_irb6650s_90_390": {
+        "length": 0.000,
+        "width": 2.842,
+        "height": 2.110
+    },
+    "abb_irb6650s_125_350": {
+        "length": 0.000,
+        "width": 2.392,
+        "height": 2.110
+    },
+    "abb_irb6700_200_260": {
+        "length": 0.194,
+        "width": 2.012,
+        "height": 2.105
+    },
+    "abb_irb6700_235_265": {
+        "length": 0.194,
+        "width": 2.052,
+        "height": 2.115
+    },
+    "abb_irb7600_150_350": {
+        "length": 0.000,
+        "width": 3.052,
+        "height": 2.020
+    },
+    "kuka_kr3r540": {
+        "length": 0.000,
+        "width": 0.615,
+        "height": 0.365
+    },
+    "kuka_kr5_arc": {
+        "length": 0.509,
+        "width": 1.882,
+        "height": 0.591
+    },
+    "kuka_kr6r700sixx": {
+        "length": 0.276,
+        "width": 1.006,
+        "height": 0.508
+    },
+    "kuka_kr6r900sixx": {
+        "length": 0.276,
+        "width": 1.201,
+        "height": 0.509
+    },
+    "kuka_kr10r900_2": {
+        "length": 0.000,
+        "width": 0.990,
+        "height": 0.425
+    },
+    "kuka_kr10r1100sixx": {
+        "length": 0.000,
+        "width": 1.180,
+        "height": 0.435
+    },
+    "kuka_kr10r1420": {
+        "length": 0.000,
+        "width": 1.500,
+        "height": 0.470
+    },
+    "kuka_kr16_2": {
+        "length": 0.546,
+        "width": 2.170,
+        "height": 0.846
+    },
+    "kuka_kr120r2500pro": {
+        "length": 0.843,
+        "width": 3.345,
+        "height": 0.939
+    },
+    "kuka_kr150_2": {
+        "length": 1.000,
+        "width": 3.619,
+        "height": 0.995
+    },
+    "kuka_kr150r3100_2": {
+        "length": 0.000,
+        "width": 3.315,
+        "height": 0.760
+    },
+    "kuka_kr210": {
+        "length": 1.000,
+        "width": 2.760,
+        "height": 2.213
+    },
+    "kuka_lbr_iiwa_14_r820": {
+        "length": 0.273,
+        "width": 0.257,
+        "height": 1.427
+    },
+    "robotiq_2f85": {
+        "length": 0.075,
+        "width": 0.142,
+        "height": 0.162
+    },
+    "ur5_robot 1": {
+        "length": 0.314,
+        "width": 0.930,
+        "height": 0.206
+    },
+    "ur5_robot": {
+        "length": 0.314,
+        "width": 0.930,
+        "height": 0.206
+    },
+    "ur10_robot": {
+        "length": 0.355,
+        "width": 1.306,
+        "height": 0.263
+    },
+    "ur10e_robot": {
+        "length": 0.386,
+        "width": 1.326,
+        "height": 0.275
+    }
+}

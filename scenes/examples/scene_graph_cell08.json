@@ -1,0 +1,1726 @@
+[
+  {
+    "object_id": "Line_01_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.9,
+      "width": 0.93,
+      "height": 1.257
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.161999999999999,
+      "y": 9.5352,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_3",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_01_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.9,
+      "width": 0.93,
+      "height": 1.257
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 5.5,
+      "y": 4.42,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_2",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 3.593,
+      "y": 1.4152,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 6.008,
+      "y": 1.4152,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_3",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 4.315,
+      "y": 1.4152,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_4",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 5.2860000000000005,
+      "y": 1.4152,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_5",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 6.514,
+      "y": 12.590200000000001,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_6",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.792,
+      "y": 12.590200000000001,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_7",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 10.424,
+      "y": 12.590200000000001,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_8",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.169,
+      "y": 1.4152,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_02_9",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.691,
+      "width": 0.691,
+      "height": 0.89
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.09,
+      "y": 12.590200000000001,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_03_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.769,
+      "width": 0.768,
+      "height": 0.902
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 11.925,
+      "y": 11.9922,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_8",
+        "connection_type": "connected_corner",
+        "source_endpoint": "forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_05_9",
+        "connection_type": "connected_corner",
+        "source_endpoint": "right_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_03_3",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.769,
+      "width": 0.768,
+      "height": 0.902
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.994,
+      "y": 11.9322,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_1",
+        "connection_type": "connected_corner",
+        "source_endpoint": "right_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_05_6",
+        "connection_type": "connected_corner",
+        "source_endpoint": "forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_03_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 0.769,
+      "width": 0.768,
+      "height": 0.902
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 2.073,
+      "y": 2.0072,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_7",
+        "connection_type": "connected_corner",
+        "source_endpoint": "forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_05_5",
+        "connection_type": "connected_corner",
+        "source_endpoint": "right_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_04_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 4.65,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 7.0,
+      "y": 11.9922,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_8",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_05_1",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_04_6",
+        "connection_type": "connected",
+        "source_endpoint": "right_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_04_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 4.65,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.99,
+      "y": 7.0052,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_5",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_05_6",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_04_3",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 4.65,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.158999999999999,
+      "y": 4.5772,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_3",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_04_4",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "right_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_04_4",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 4.65,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 7.002,
+      "y": 2.0032,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_7",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_04_3",
+        "connection_type": "connected",
+        "source_endpoint": "right_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_04_5",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 4.65,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 12.002,
+      "y": 6.998200000000001,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_10",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_05_9",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_04_6",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 4.65,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 5.5,
+      "y": 9.36,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_05_2",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_04_1",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "right_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 3.524,
+      "y": 11.9922,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_1",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_03_3",
+        "connection_type": "connected_corner",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "right_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 5.5,
+      "y": 5.94,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_6",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_01_2",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_3",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.161999999999999,
+      "y": 8.0072,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_3",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_01_1",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_5",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.99,
+      "y": 3.5372,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_2",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_03_1",
+        "connection_type": "connected_corner",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "right_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_6",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.99,
+      "y": 10.4692,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_2",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_03_3",
+        "connection_type": "connected_corner",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_7",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "east_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 3.5700000000000003,
+      "y": 2.0032,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_4",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_03_1",
+        "connection_type": "connected_corner",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_8",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "west_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 10.431000000000001,
+      "y": 11.9922,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_1",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      },
+      {
+        "object_id": "Line_03_2",
+        "connection_type": "connected_corner",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "forward_positive"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_9",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 12.002,
+      "y": 10.4642,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_5",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_negative",
+        "target_endpoint": "primary_forward_positive"
+      },
+      {
+        "object_id": "Line_03_2",
+        "connection_type": "connected_corner",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "right_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_05_10",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.247,
+      "width": 0.6,
+      "height": 0.85
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 12.002,
+      "y": 3.5671999999999997,
+      "z": 0.0
+    },
+    "connections": [
+      {
+        "object_id": "Line_04_5",
+        "connection_type": "connected",
+        "source_endpoint": "primary_forward_positive",
+        "target_endpoint": "primary_forward_negative"
+      }
+    ],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_06_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.355,
+      "width": 1.16,
+      "height": 2.182
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 8.158999999999999,
+      "y": 8.1022,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_06_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.355,
+      "width": 1.16,
+      "height": 2.182
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 12.002,
+      "y": 5.8402,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_06_3",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.355,
+      "width": 1.16,
+      "height": 2.182
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 5.5,
+      "y": 6.01,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_06_4",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.355,
+      "width": 1.16,
+      "height": 2.182
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.99,
+      "y": 8.1252,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_06_5",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.355,
+      "width": 1.16,
+      "height": 2.182
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.99,
+      "y": 10.5702,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_07_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.859,
+      "width": 3.371,
+      "height": 3.215
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 12.002,
+      "y": 9.760200000000001,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_07_2",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 2.859,
+      "width": 3.371,
+      "height": 3.215
+    },
+    "is_on_the_floor": true,
+    "facing": "south_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 1.99,
+      "y": 4.8902,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_08_1",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.1,
+      "width": 0.71,
+      "height": 1.732
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 4.4639,
+      "y": 10.0493,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "Line_08_3",
+    "style": "Industrial",
+    "material": "Metal",
+    "size_in_meters": {
+      "length": 1.1,
+      "width": 0.71,
+      "height": 1.732
+    },
+    "is_on_the_floor": true,
+    "facing": "north_wall",
+    "placement": {
+      "objects_in_room": []
+    },
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": {
+      "constraint_area": {
+        "x_neg": 0.0,
+        "x_pos": 0.0,
+        "y_neg": 0.0,
+        "y_pos": 0.0
+      }
+    },
+    "position": {
+      "x": 4.4639,
+      "y": 8.033199999999999,
+      "z": 0.0
+    },
+    "connections": [],
+    "itemType": null,
+    "size": null
+  },
+  {
+    "object_id": "MaterialFlow_1",
+    "type": "material_flow_definition",
+    "flow_direction": "clockwise",
+    "loading_point": {
+      "edge": "southeast",
+      "position": 0.7,
+      "world_position": {
+        "x": 12.0,
+        "y": 2.5,
+        "z": 0
+      }
+    },
+    "unloading_point": {
+      "edge": "southeast",
+      "position": 0.3,
+      "world_position": {
+        "x": 9.3,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    "passage_segment": {
+      "description": "Human entry point on southeast corner",
+      "from_edge": "southeast",
+      "from_position": 0.7,
+      "to_edge": "southeast",
+      "to_position": 0.3
+    },
+    "removed_conveyors": [
+      "Line_05_4",
+      "Line_03_4"
+    ]
+  },
+  {
+    "object_id": "south_wall",
+    "style": null,
+    "material": null,
+    "size_in_meters": {
+      "length": 14.0,
+      "width": 0.0,
+      "height": 4.5
+    },
+    "is_on_the_floor": false,
+    "facing": null,
+    "placement": null,
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": null,
+    "position": {
+      "x": 7.0,
+      "y": 0.0,
+      "z": 2.25
+    },
+    "connections": null,
+    "itemType": "wall",
+    "size": null
+  },
+  {
+    "object_id": "north_wall",
+    "style": null,
+    "material": null,
+    "size_in_meters": {
+      "length": 14.0,
+      "width": 0.0,
+      "height": 4.5
+    },
+    "is_on_the_floor": false,
+    "facing": null,
+    "placement": null,
+    "rotation": {
+      "z_angle": 180.0
+    },
+    "cluster": null,
+    "position": {
+      "x": 7.0,
+      "y": 14.0,
+      "z": 2.25
+    },
+    "connections": null,
+    "itemType": "wall",
+    "size": null
+  },
+  {
+    "object_id": "east_wall",
+    "style": null,
+    "material": null,
+    "size_in_meters": {
+      "length": 14.0,
+      "width": 0.0,
+      "height": 4.5
+    },
+    "is_on_the_floor": false,
+    "facing": null,
+    "placement": null,
+    "rotation": {
+      "z_angle": 270.0
+    },
+    "cluster": null,
+    "position": {
+      "x": 14.0,
+      "y": 7.0,
+      "z": 2.25
+    },
+    "connections": null,
+    "itemType": "wall",
+    "size": null
+  },
+  {
+    "object_id": "west_wall",
+    "style": null,
+    "material": null,
+    "size_in_meters": {
+      "length": 14.0,
+      "width": 0.0,
+      "height": 4.5
+    },
+    "is_on_the_floor": false,
+    "facing": null,
+    "placement": null,
+    "rotation": {
+      "z_angle": 90.0
+    },
+    "cluster": null,
+    "position": {
+      "x": 0.0,
+      "y": 7.0,
+      "z": 2.25
+    },
+    "connections": null,
+    "itemType": "wall",
+    "size": null
+  },
+  {
+    "object_id": "middle of the room",
+    "style": null,
+    "material": null,
+    "size_in_meters": {
+      "length": 14.0,
+      "width": 14.0,
+      "height": 0.0
+    },
+    "is_on_the_floor": false,
+    "facing": null,
+    "placement": null,
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": null,
+    "position": {
+      "x": 7.0,
+      "y": 7.0,
+      "z": 0.0
+    },
+    "connections": null,
+    "itemType": "floor",
+    "size": null
+  },
+  {
+    "object_id": "ceiling",
+    "style": null,
+    "material": null,
+    "size_in_meters": {
+      "length": 14.0,
+      "width": 14.0,
+      "height": 0.0
+    },
+    "is_on_the_floor": false,
+    "facing": null,
+    "placement": null,
+    "rotation": {
+      "z_angle": 0.0
+    },
+    "cluster": null,
+    "position": {
+      "x": 7.0,
+      "y": 7.0,
+      "z": 4.5
+    },
+    "connections": null,
+    "itemType": "ceiling",
+    "size": null
+  }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "model": "gpt-4o",
+        "api_key": "YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-4o-mini",
+        "api_key": "YOUR_OPENAI_API_KEY"
+    }
+]
