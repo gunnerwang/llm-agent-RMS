@@ -524,9 +524,10 @@ If you use LLM4RMS in your research, please cite:
 ```bibtex
 @article{llm4rms2026,
   title={LLM Agents-Driven Layout Generation for Reconfigurable Manufacturing Systems},
-  author={...},
+  author={Wang, Tianyu and Liu, Zhihao and Wang, Xi Vincent and Wang, Lihui},
   journal={CIRP Annals},
-  year={2026}
+  year={2026},
+  institution={KTH Royal Institute of Technology}
 }
 ```
 
