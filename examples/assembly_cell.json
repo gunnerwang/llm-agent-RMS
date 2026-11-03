@@ -1,0 +1,33 @@
+{
+  "room": {"length": 24, "width": 9},
+  "objects": [
+    {"id": "raw_rack", "type": "storage_rack", "stage": "supply"},
+    {"id": "loading_robot", "type": "industrial_robot", "stage": "machining"},
+    {"id": "cnc_1", "type": "cnc_machine", "stage": "machining"},
+    {"id": "cnc_2", "type": "cnc_machine", "stage": "machining"},
+    {"id": "buffer", "type": "buffer_table", "stage": "machining"},
+    {"id": "assembly", "type": "assembly_workstation", "stage": "assembly"},
+    {"id": "cobot", "type": "collaborative_robot", "stage": "assembly"},
+    {"id": "tools", "type": "tool_cabinet", "stage": "assembly"},
+    {"id": "inspection", "type": "inspection_station", "stage": "inspection"},
+    {"id": "conveyor", "type": "conveyor", "stage": "packaging"},
+    {"id": "packing", "type": "packaging_station", "stage": "packaging"},
+    {"id": "outbound", "type": "pallet_station", "stage": "packaging"}
+  ],
+  "flow": [
+    ["raw_rack", "loading_robot"],
+    ["loading_robot", "cnc_1"],
+    ["loading_robot", "cnc_2"],
+    ["cnc_1", "buffer"],
+    ["cnc_2", "buffer"],
+    ["buffer", "assembly"],
+    ["assembly", "inspection"],
+    ["inspection", "conveyor"],
+    ["conveyor", "packing"],
+    ["packing", "outbound"]
+  ],
+  "adjacent": [
+    ["assembly", "cobot"],
+    ["assembly", "tools"]
+  ]
+}
